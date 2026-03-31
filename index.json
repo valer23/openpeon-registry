@@ -10389,6 +10389,50 @@
       "updated": "2026-03-10"
     },
     {
+      "name": "tryndamere-pack",
+      "display_name": "Tryndamere (Classic + Demonblade)",
+      "version": "1.0.1",
+      "description": "Tryndamere voice lines (Original + Demonblade) for peon-ping.",
+      "author": {
+        "name": "TheV",
+        "github": "valer23"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "All audio © Riot Games — personal/non-commercial use only",
+      "sound_count": 68,
+      "total_size_bytes": 2320270,
+      "source_repo": "valer23/openpeon-tryndamere-pack",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "1f6550fa799587e8b4b3d7a29b4c8be65f92dc51a96ffe3261fc186f25419493",
+      "tags": [
+        "league-of-legends",
+        "gaming"
+      ],
+      "preview_sounds": [
+        "sounds/Tryndamere_Select.ogg",
+        "sounds/Tryndamere_Demonblade_Attack_0.ogg",
+        "sounds/Tryndamere_Demonblade_Laugh_0.ogg",
+        "sounds/Tryndamere_Original_Joke.ogg",
+        "sounds/Tryndamere_Demonblade_R_0.ogg",
+        "sounds/Tryndamere_Demonblade_Death_0.ogg"
+      ],
+      "added": "2026-04-01",
+      "updated": "2026-04-01"
+    },
+    {
       "name": "tweety",
       "display_name": "Tweety Bird",
       "version": "0.0.1",
